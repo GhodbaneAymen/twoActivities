@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+
+    <string name="text_header_reply">Reply header</string>
+</resources>
